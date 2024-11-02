@@ -19,7 +19,7 @@ Installation
 
 Clone this repository:
 
-bashCopygit clone https://github.com/Abhinav6924/2048-game.git
+bashCopygit clone https://github.com/Abhinav6924/2048-in-python.git
 cd 2048-game
 
 How to Play
