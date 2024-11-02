@@ -92,20 +92,4 @@ class Game2048(Frame):
 gamegrid = Game2048()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
